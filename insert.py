@@ -2,7 +2,7 @@ import sqlite3
 from create_table import DB_FILE, TABLE_NAME
 
 usuario = "Beatriz Paiva"
-nome_maquina = "ditec"
+nome_maquina = "ahhhhh"
 ip_maquina = "192.456.45.1"
 inicio= "NULL"
 fim= "NULL"
